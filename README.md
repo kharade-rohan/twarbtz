@@ -1,3 +1,3 @@
-# twarbtz (Under developement)
+# Twarbtz (Under developement)
 
 Project for arbitrage 
