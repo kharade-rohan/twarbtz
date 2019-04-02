@@ -1,3 +1,3 @@
 # Twarbtz (Under developement)
 
-Project for arbitrage 
+Fintech project for study of arbitrage for national currencies 
