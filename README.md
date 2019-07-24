@@ -2,5 +2,5 @@
 
 Fintech project for study of arbitrage for national currencies 
 
-* Prerequisite
+* Prerequisite <br/>
 ```sudo apt-get install python-requests```
